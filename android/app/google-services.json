@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528912308651",
+    "project_id": "magazine-8f2db",
+    "storage_bucket": "magazine-8f2db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528912308651:android:46ba21f461a977621a5aee",
+        "android_client_info": {
+          "package_name": "com.app.magazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528912308651-0a3if2hnae739c77kt9minorenst21i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.magazine",
+            "certificate_hash": "8babe56bc6abdd10b551c73a6e0b61936f022306"
+          }
+        },
+        {
+          "client_id": "528912308651-8j5mn183h6gvrpfot4dl0d9j6n9eq991.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTnADe9rZCOU4fvLe9sS0J5-vp5Y6eMrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528912308651-8j5mn183h6gvrpfot4dl0d9j6n9eq991.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
