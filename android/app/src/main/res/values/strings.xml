@@ -4,6 +4,7 @@
 
     <!-- Replace "000000000000" with your Facebook App ID here. -->
     <string name="facebook_app_id">486819639720173</string>
+    <string name="facebook_client_token">6dec2258588f05330c2518ef2c4baed2</string>
 
     <!--
       Replace "000000000000" with your Facebook App ID here.
